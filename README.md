@@ -45,9 +45,9 @@ Version entre 17.4.0 et 17.9.1
 
 
 # <b>Modules requis et leurs versions pour que tout fonctionne correctement :</b><br>
-1 - Cliquez sur la barre d'adresse de votre projet<br>
-2 - Tapez cmd<br>
-3 - Lieu...<br>
+1 - Dans la fenêtre du projet cliquez sur la barre d'adresse<br>
+2 - Effacez tout, tapez cmd et faites ENTRER<br>
+3 - Écris la commande suivantes pour installer les modules<br>
 > npm i chalk@4.1.2 chart.js@3.9.1 canvas qrcode opentype.js imagedata-filters tesseract.js libsodium-wrappers @discordjs/voice ffmpeg-static request fs fs-extra jsonpath jsonpath-plus path moment moment-timezone weather-js https normalize-date email-existence is-image-url is-url valid-url get-mp3-duration sequelize google-it fast-sort scrape-yt crypto-js os-utils os
 
 <p align="center">
