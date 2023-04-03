@@ -28,11 +28,11 @@
 <h1 align="center">Installation</h1>
 
 ```md
-- Placez "bot.js" - "start.bat" - "actions" dans le dossier du project [TON BOT]
-- Placez le fichier "French.json" dans le dossier -> "Steam\steamapps\common\Discord Bot Maker\translations"
-- Discord Bot Maker > File > Actions/Events/Extensions > Re-Read Project Mods
+1 - Placez "bot.js" - "start.bat" - "actions" dans le dossier du project [TON BOT]
+2 - Placez le fichier "French.json" dans le dossier -> "Steam\steamapps\common\Discord Bot Maker\translations"
+3 - Discord Bot Maker > File > Actions/Events/Extensions > Re-Read Project Mods
 ```
-# NODE JS requis
+<h1 align="center">NODE JS requis</h1>
 
 Version entre 17.4.0 et 17.9.1
 
@@ -44,10 +44,13 @@ Version entre 17.4.0 et 17.9.1
 > Si vous avez fait l'erreur d'installer une autre version, installez la bonne version puis supprimez le dossier "node_modules" de votre projet bot et installez tous les modules requis par le MODS
 
 
-# <b>Modules requis et leurs versions pour que tout fonctionne correctement :</b><br>
-1 - Dans la fenêtre du projet cliquez sur la barre d'adresse<br>
-2 - Effacez tout, tapez cmd et faites ENTRER<br>
-3 - Écris la commande suivantes pour installer les modules<br>
+<h1 align="center">Modules requis et leurs versions</h1>
+
+```md
+1 - Dans la fenêtre du projet cliquez sur la barre d'adresse
+2 - Effacez tout, tapez cmd et faites ENTRER
+3 - Écris la commande suivantes pour installer les modules
+```
 > npm i chalk@4.1.2 chart.js@3.9.1 canvas qrcode opentype.js imagedata-filters tesseract.js libsodium-wrappers @discordjs/voice ffmpeg-static request fs fs-extra jsonpath jsonpath-plus path moment moment-timezone weather-js https normalize-date email-existence is-image-url is-url valid-url get-mp3-duration sequelize google-it fast-sort scrape-yt crypto-js os-utils os
 
 <p align="center">
