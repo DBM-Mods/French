@@ -14,7 +14,7 @@
 
 <h1 align="center">Description</h1>
 
-<p align="center">Traduction française 🇫🇷</p>
+<p align="center">Traduction française des Mods 🇫🇷</p>
 
 <p align="center">
   <a href="https://github.com/TheKingOfCampers/DBM-Mods-French/archive/refs/heads/main.zip"</a>
