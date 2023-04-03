@@ -32,17 +32,23 @@
 2 - Placez le fichier "French.json" dans le dossier -> "Steam\steamapps\common\Discord Bot Maker\translations"
 3 - Discord Bot Maker > File > Actions/Events/Extensions > Re-Read Project Mods
 ```
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1042197137598976111/1092031705453436928/blank.png" width="50" title="hover text">
+</p>
+
 <h1 align="center">NODE JS requis</h1>
 
-Version entre 17.4.0 et 17.9.1
+<h3 align="center">Version entre 17.4.0 et 17.9.1</h3>
 
-| Informations | Site Web | Lien de téléchargement |
-| ---------- | :------------------------------------------------ : | :-------------------------------------------------------------- : |
 | 17.4.0 | [Site Web](https://nodejs.org/dist/v17.4.0/) | [Télécharger Windows](https://nodejs.org/dist/v17.4.0/node-v17.4.0-x64.msi) |
 | 17.9.1 | [Site Web](https://nodejs.org/dist/v17.9.1/) | [Télécharger Windows](https://nodejs.org/dist/v17.9.1/node-v17.9.1-x64.msi) |
 
 > Si vous avez fait l'erreur d'installer une autre version, installez la bonne version puis supprimez le dossier "node_modules" de votre projet bot et installez tous les modules requis par le MODS
 
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1042197137598976111/1092031705453436928/blank.png" width="50" title="hover text">
+</p>
 
 <h1 align="center">Modules requis et leurs versions</h1>
 
