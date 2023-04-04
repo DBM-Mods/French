@@ -702,11 +702,11 @@ module.exports = {
           </div>
           <div style="width: calc(34% - 8px); height: 300px; float: left; margin-left: 8px;">
 
-            <dialog-list id="options" fields='["label", "description", "value", "emoji", "default", "val1", "val2", "comparar", "formula"]' dialogTitle="Select Menu Option Info" dialogWidth="460" dialogHeight="570" listLabel="Options" listStyle="height: 210px;" itemName="Option" itemCols="1" itemHeight="20px;" itemTextFunction="'[ ' + (data.formula || 'Exibir') + ' ] ' + data.label" itemStyle="text-align: left; line-height: 20px;">
+            <dialog-list id="options" fields='["label", "description", "value", "emoji", "default", "val1", "val2", "comparar", "formula"]' dialogTitle="Select Menu Option Info" dialogWidth="460" dialogHeight="570" listLabel="Options" listStyle="height: 210px;" itemName="Option" itemCols="1" itemHeight="20px;" itemTextFunction="'[ ' + (data.formula || 'Afficher') + ' ] ' + data.label" itemStyle="text-align: left; line-height: 20px;">
             <div style="padding: 16px;background:rgba(0,0,0,0.3)">
                  <span class="dbminputlabel">Paramètre d'affichage du choix</span><br>
                  <select id="formula" class="round">
-                 <option value="Choix" selected>Toujours afficher</option>
+                 <option value="Afficher" selected>Toujours afficher</option>
                  <option value="Faux">Afficher seulement si la condition est fausse</option>
                  <option value="Vrai">Afficher seulement si la condition est vraie</option>
                </select>
