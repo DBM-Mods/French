@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a href="https://discord.gg/yHqbaga6Nb" rel="nofollow">DBM MODS {Multi-Language}</a> est une communauté open source dédiée à la modification, l'extension et l'amélioration de <a href="https://store.steampowered.com/app/682130/Discord_Bot_Maker" rel="nofollow">Discord Bot Maker</a>
+<a href="https://discord.gg/dHJ776Nndf" rel="nofollow">DBM-MODS/FRANCE</a> est une communauté open source dédiée à la modification, l'extension et l'amélioration de <a href="https://store.steampowered.com/app/682130/Discord_Bot_Maker" rel="nofollow">Discord Bot Maker</a>
 </p>
 
 <p align="center">
@@ -14,7 +14,8 @@
 
 <h1 align="center">Description</h1>
 
-<p align="center">Traduction française des Mods 🇫🇷</p>
+<p align="center">🇫🇷 Traduction française des Mods suivants -> https://github.com/DBM-Mods/Portugues</p>
+
 
 <p align="center">
   <a href="https://github.com/TheKingOfCampers/DBM-Mods-French/archive/refs/heads/main.zip"</a>
@@ -37,27 +38,22 @@
   <img src="https://cdn.discordapp.com/attachments/1042197137598976111/1092031705453436928/blank.png" width="50" title="hover text">
 </p>
 
-<h1 align="center">NODE JS requis</h1>
-
-<h3 align="center">Version entre 17.4.0 et 17.9.1</h3>
-
-| 17.4.0 | [Site Web](https://nodejs.org/dist/v17.4.0/) | [Télécharger Windows](https://nodejs.org/dist/v17.4.0/node-v17.4.0-x64.msi) |
-| 17.9.1 | [Site Web](https://nodejs.org/dist/v17.9.1/) | [Télécharger Windows](https://nodejs.org/dist/v17.9.1/node-v17.9.1-x64.msi) |
-
-> Si vous avez fait l'erreur d'installer une autre version, installez la bonne version puis supprimez le dossier "node_modules" de votre projet bot et installez tous les modules requis par le MODS
-
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1042197137598976111/1092031705453436928/blank.png" width="50" title="hover text">
-</p>
-
-<h1 align="center">Modules requis et leurs versions</h1>
+<h1 align="center">Modules requis</h1>
 
 ```md
 1 - Dans la fenêtre du projet cliquez sur la barre d'adresse
 2 - Effacez tout, tapez cmd et faites ENTRER
-3 - Écris la commande suivantes pour installer les modules
+3 - Tapez les commandes suivantes
+-----------------------------------------------------------------
+4 - npm install
+5 - npm rebuild
+6 - node ./
+7 - CTRL + C (stop le bot)
+8 - npm uninstall request
+-----------------------------------------------------------------
+9 - Édite le fichier "package-lock.json" et supprime chaque modules et dépendances lié à request [CTRL + F]
 ```
-> npm i chalk@4.1.2 chart.js@3.9.1 canvas qrcode opentype.js imagedata-filters tesseract.js libsodium-wrappers @discordjs/voice ffmpeg-static request fs fs-extra jsonpath jsonpath-plus path moment moment-timezone weather-js https normalize-date email-existence is-image-url is-url valid-url get-mp3-duration sequelize google-it fast-sort scrape-yt crypto-js os-utils os
+> Je suis en Node.js v18.15.0 tout fonctionne
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1042197137598976111/1092031705453436928/blank.png" width="50" title="hover text">
@@ -77,5 +73,5 @@
 <p align="center">Traduit par: <a href="https://discord.com/users/1042087216979116032" rel="nofollow">🆃🅷🅴 🅺🅸🅽🅶 ✅</a>
   </p>
 <p align="center">
-  <a href="https://discord.gg/yHqbaga6Nb" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/1042197137598976111/1092019949985337484/discord-loop.gif" alt="steam" width="150" height="150"/>
+  <a href="https://discord.gg/JfZ4G6zXaV" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/1042197137598976111/1092019949985337484/discord-loop.gif" alt="steam" width="150" height="150"/>
   </p>
