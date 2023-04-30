@@ -11,7 +11,7 @@ module.exports = {
 
 
   subtitle(data) {
-    const info = ['Tempo Curto', 'Muito tempo', 'Data abreviada', 'Data longa', 'Data longa com tempo curto', 'Data longa com dia da semana e horário curto', 'Relativo'];
+    const info = ['HH/MM', 'HH/MM/SS', 'DD/MM/YYYY [Nombre]', 'DD/MM/YYYY [texte]', 'DD/MM/YYYY + HH/MM', 'Day + DD/MM/YYYY + HH/MM', 'Relatif'];
     const prse = parseInt(data.saida);
 
     if (data.descriptionx) {
