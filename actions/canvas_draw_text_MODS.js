@@ -19,9 +19,8 @@ fields: ["storage","varName","x","y","fontPath","fontColor","fontSize","align","
 
 html: function(isEvent, data) {
 	return `
-	<div class="dbmmodsbr1 xinelaslink" data-url="https://github.com/TheKingOfCampers/French/archive/refs/heads/main.zip">
-  Mettre à jour</div>
-    <div class="dbmmodsbr2 xinelaslink" data-url="https://github.com/TheKingOfCampers/French">Github: Version 0.6</div>
+  <div class="dbmmodsbr1 xinelaslink" data-url="https://github.com/DBM-Mods/French/archive/refs/heads/main.zip">Mettre à jour</div>
+  <div class="dbmmodsbr2 xinelaslink" data-url="https://github.com/DBM-Mods/French">Github: Version 0.6</div>
 
 	
 	<table style="width:100%;">

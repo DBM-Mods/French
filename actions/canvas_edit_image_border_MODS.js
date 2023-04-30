@@ -18,9 +18,8 @@ module.exports = {
 
   html (isEvent, data) {
     return `
-	<div class="dbmmodsbr1 xinelaslink" data-url="https://github.com/TheKingOfCampers/French/archive/refs/heads/main.zip">
-  Mettre à jour</div>
-    <div class="dbmmodsbr2 xinelaslink" data-url="https://github.com/TheKingOfCampers/French">Github: Version 0.4</div>
+  <div class="dbmmodsbr1 xinelaslink" data-url="https://github.com/DBM-Mods/French/archive/refs/heads/main.zip">Mettre à jour</div>
+  <div class="dbmmodsbr2 xinelaslink" data-url="https://github.com/DBM-Mods/French">Github: Version 0.4</div>
 
     <table style="width:100%;">
 		<tr>

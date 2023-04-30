@@ -18,9 +18,8 @@ fields: ["comment", "save", "color"],
 
 html: function(isEvent, data) {
 	return `
-    <div class="dbmmodsbr1 xinelaslink" data-url="https://github.com/TheKingOfCampers/French/archive/refs/heads/main.zip">
-  Mettre à jour</div>
-    <div class="dbmmodsbr2 xinelaslink" data-url="https://github.com/TheKingOfCampers/French">Github: Version 0.1</div>
+  <div class="dbmmodsbr1 xinelaslink" data-url="https://github.com/DBM-Mods/French/archive/refs/heads/main.zip">Mettre à jour</div>
+  <div class="dbmmodsbr2 xinelaslink" data-url="https://github.com/DBM-Mods/French">Github: Version 0.1</div>
 
 	<div style="width: 100%; padding:10px 5px;height: calc(100vh - 180px);overflow:auto">
 

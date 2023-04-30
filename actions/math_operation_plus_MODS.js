@@ -26,9 +26,8 @@ fields: ["FirstNumber", "info", "SecondNumber", "storage", "varName"],
 
 html: function(isEvent, data) {
 	return `
-	<div class="dbmmodsbr1 xinelaslink" data-url="https://github.com/TheKingOfCampers/French/archive/refs/heads/main.zip">
-  Mettre à jour</div>
-    <div class="dbmmodsbr2 xinelaslink" data-url="https://github.com/TheKingOfCampers/French">Github: Version 1.3</div>
+  <div class="dbmmodsbr1 xinelaslink" data-url="https://github.com/DBM-Mods/French/archive/refs/heads/main.zip">Mettre à jour</div>
+  <div class="dbmmodsbr2 xinelaslink" data-url="https://github.com/DBM-Mods/French">Github: Version 1.3</div>
 
 <table style="width:100%"><tr><td style="width:45%" id="Principado">
 

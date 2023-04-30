@@ -162,8 +162,8 @@ module.exports = {
 
   html(isEvent, data) {
     return `
-	<div class="dbmmodsbr1 xinelaslink" data-url="https://github.com/TheKingOfCampers/French/archive/refs/heads/main.zip">Mettre à jour</div>
-    <div class="dbmmodsbr2 xinelaslink" data-url="https://github.com/TheKingOfCampers/French">Github: Version 0.1</div>
+  <div class="dbmmodsbr1 xinelaslink" data-url="https://github.com/DBM-Mods/French/archive/refs/heads/main.zip">Mettre à jour</div>
+  <div class="dbmmodsbr2 xinelaslink" data-url="https://github.com/DBM-Mods/French">Github: Version 0.1</div>
 
     <div style="width:100%" id="xin2"><send-reply-target-input dropdownLabel="Envoyer vers" selectId="channel" variableInputId="varName"></send-reply-target-input>
     <br><br><br>
